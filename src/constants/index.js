@@ -156,4 +156,12 @@ export const projects = [
       "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
     link: "https://github.com/pandawaa/buzzconnect-social-media",
   },
+  {
+    iconUrl: estate,
+    theme: "btn-back-red",
+    name: "Auto Sight Motors",
+    description:
+      "Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.",
+    link: "https://github.com/pandawaa/auto-sight-motors",
+  },
 ]
