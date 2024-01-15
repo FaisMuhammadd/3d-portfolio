@@ -164,4 +164,12 @@ export const projects = [
       "Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.",
     link: "https://github.com/pandawaa/auto-sight-motors",
   },
+  {
+    iconUrl: threads,
+    theme: "btn-back-red",
+    name: "Travellada",
+    description:
+      "Showcase a Travel Camping Website in various camps in a dedicated section, allowing users to explore different options, A compelling travel guide section with informative content and captivating visuals",
+    link: "https://github.com/pandawaa/travellada",
+  },
 ]
