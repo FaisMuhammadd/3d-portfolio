@@ -172,4 +172,12 @@ export const projects = [
       "Showcase a Travel Camping Website in various camps in a dedicated section, allowing users to explore different options, A compelling travel guide section with informative content and captivating visuals",
     link: "https://github.com/pandawaa/travellada",
   },
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-red",
+    name: "Nike-Web-Clone",
+    description:
+      "The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities, Discover stylish Nike arrivals, quality comfort, and innovation for your active life.",
+    link: "https://github.com/pandawaa/nike-web-clone",
+  },
 ]
