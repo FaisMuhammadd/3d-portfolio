@@ -175,9 +175,17 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Nike-Web-Clone",
+    name: "Nike Web Clone",
     description:
       "The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities, Discover stylish Nike arrivals, quality comfort, and innovation for your active life.",
     link: "https://github.com/pandawaa/nike-web-clone",
+  },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-red",
+    name: "Price Stash",
+    description:
+      "this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock",
+    link: "https://github.com/pandawaa/price-stash",
   },
 ]
