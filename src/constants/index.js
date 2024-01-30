@@ -188,4 +188,12 @@ export const projects = [
       "this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock",
     link: "https://github.com/pandawaa/price-stash",
   },
+  {
+    iconUrl: estate,
+    theme: "btn-back-red",
+    name: "Threads Clone",
+    description:
+      "Build a Full Stack Threads clone using Next.js 14+, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.",
+    link: "https://github.com/pandawaa/threads-clone",
+  },
 ]
