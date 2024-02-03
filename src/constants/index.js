@@ -196,4 +196,12 @@ export const projects = [
       "Build a Full Stack Threads clone using Next.js 14+, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.",
     link: "https://github.com/pandawaa/threads-clone",
   },
+  {
+    iconUrl: threads,
+    theme: "btn-back-red",
+    name: "Delle Ai Photo Generate",
+    description:
+      "Build a Full Stack MERN Discover the future of image creation with Web AI Generate Photo, powered by OpenAI's state-of-the-art API. Seamlessly blend your imagination with the power of artificial intelligence to produce stunning, lifelike images at the click of a button",
+    link: "https://github.com/pandawaa/dalle-clone",
+  },
 ]
