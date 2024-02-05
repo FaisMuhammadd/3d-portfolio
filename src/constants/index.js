@@ -204,4 +204,12 @@ export const projects = [
       "Build a Full Stack MERN Discover the future of image creation with Web AI Generate Photo, powered by OpenAI's state-of-the-art API. Seamlessly blend your imagination with the power of artificial intelligence to produce stunning, lifelike images at the click of a button",
     link: "https://github.com/pandawaa/dalle-clone",
   },
+  {
+    iconUrl: pricewise,
+    theme: "btn-back-red",
+    name: "Metaverse Single Page",
+    description:
+      "A web user interface static about the metaverse typically refers to a non-interactive webpage or website that provides information, resources, or discussions related to the concept of the metaverse. These static interfaces often serve as introductory platforms, offering descriptions, articles, graphics, and links to further explore the idea of the metaverse. ",
+    link: "https://github.com/pandawaa/metaverse-single-page",
+  },
 ]
