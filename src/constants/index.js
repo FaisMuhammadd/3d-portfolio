@@ -212,4 +212,12 @@ export const projects = [
       "A web user interface static about the metaverse typically refers to a non-interactive webpage or website that provides information, resources, or discussions related to the concept of the metaverse. These static interfaces often serve as introductory platforms, offering descriptions, articles, graphics, and links to further explore the idea of the metaverse. ",
     link: "https://github.com/pandawaa/metaverse-single-page",
   },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-red",
+    name: "Lyriks Music Web App",
+    description:
+      "Build a Music Web app With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more.",
+    link: "https://github.com/pandawaa/lyriks",
+  },
 ]
